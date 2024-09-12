@@ -1,4 +1,8 @@
 <h1 align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/lgbt-rainbow-animated.svg" alt="Olá, eu sou [Seu Nome]!" width="400" />
+</h1>
+
+<h1 align="center">
   <span style="color: #e66465; animation: rainbow 5s infinite;">🌈 Olá, eu sou [Seu Nome]! 🌈</span>
 </h1>
 
