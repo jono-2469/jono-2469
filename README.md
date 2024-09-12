@@ -1,7 +1,7 @@
 <!-- Cabeçalho animado com cores da bandeira LGBT+ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&gradient=rainbow"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Pedro;I'm+18+years+old;I'm+from+Brazil;Student+Data+Scientist;Be+Welcome!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Pedro;I'm+18+years+old;I'm+from+Brazil;Student+Data+Scientist;Be+Welcome!)
 
 ---
 
