@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: #e66465; animation: rainbow 5s infinite;">🌈 Olá, eu sou [Seu Nome]! 🌈</span>
+  <span style="color: #e66465; animation: rainbow 5s infinite;">🌈 Olá, eu sou João Pedro! 🌈</span>
 </h1>
 
 <p align="center">
