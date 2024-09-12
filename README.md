@@ -1,6 +1,31 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/lgbt-rainbow-animated.svg" alt="Olá, eu sou [Seu Nome]!" width="400" />
-</h1>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" preserveAspectRatio="xMidYMid slice">
+  <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-size="24" font-family="Arial" fill="url(#rainbow)">
+    Olá, eu sou [Seu Nome]!
+  </text>
+  <defs>
+    <linearGradient id="rainbow" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="red">
+        <animate attributeName="offset" values="0%;100%" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="16%" stop-color="orange">
+        <animate attributeName="offset" values="0%;100%" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="33%" stop-color="yellow">
+        <animate attributeName="offset" values="0%;100%" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="green">
+        <animate attributeName="offset" values="0%;100%" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="66%" stop-color="blue">
+        <animate attributeName="offset" values="0%;100%" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="83%" stop-color="purple">
+        <animate attributeName="offset" values="0%;100%" dur="2s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+</svg>
+
 
 <h1 align="center">
   <span style="color: #e66465; animation: rainbow 5s infinite;">🌈 Olá, eu sou [Seu Nome]! 🌈</span>
