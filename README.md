@@ -1,6 +1,10 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/lgbt-rainbow-animated.svg" alt="Olá, eu sou [Seu Nome]!" width="400" />
+</h1>
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" preserveAspectRatio="xMidYMid slice">
   <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-size="24" font-family="Arial" fill="url(#rainbow)">
-    Olá, eu sou [Seu Nome]!
+    Olá, eu sou [João Pedro]!
   </text>
   <defs>
     <linearGradient id="rainbow" gradientTransform="rotate(90)">
@@ -25,6 +29,7 @@
     </linearGradient>
   </defs>
 </svg>
+
 
 
 <h1 align="center">
