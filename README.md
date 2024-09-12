@@ -18,25 +18,6 @@
 
 ---
 
-### Meus Projetos
-
-✨ [Projeto de Estoque](https://github.com/seu_usuario/projeto_estoque)  
-Um sistema completo de controle de estoque e validade que estou desenvolvendo. 🛒🕒
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="400" height="300" />
-</p>
-
----
-
-### Como Eu Programo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200" />
-</p>
-
----
-
 ### Minha Filosofia de Trabalho
 
 💡 _"Se você consegue imaginar, você pode construir!"_ 🚀  
