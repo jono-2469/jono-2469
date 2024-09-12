@@ -2,7 +2,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&gradient=rainbow"/>
 
 <!-- Texto animado com SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Pedro;I'm+18+years+old;I'm+from+Brazil;Student+Data+Scientist;Be+Welcome!+%3A)](https://git.io/typing-svg)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: red;" />
+      <stop offset="20%" style="stop-color: orange;" />
+      <stop offset="40%" style="stop-color: yellow;" />
+      <stop offset="60%" style="stop-color: green;" />
+      <stop offset="80%" style="stop-color: blue;" />
+      <stop offset="100%" style="stop-color: purple;" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="35" fill="url(#gradient)" font-family="Arial">
+    HELLO, 🌈 My name is João Pedro 🌈
+  </text>
+</svg>
 
 ---
 
